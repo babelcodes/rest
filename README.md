@@ -16,3 +16,11 @@
    1. hypermedia as the engine of application state
 1. ___Layered system____ – The layered system style allows an architecture to be composed of hierarchical layers by constraining component behavior such that each component cannot “see” beyond the immediate layer with which they are interacting.
 1. ___Code on demand___ (optional) – REST allows client functionality to be extended by downloading and executing code in the form of applets or scripts. This simplifies clients by reducing the number of features required to be pre-implemented.
+
+
+## Resource
+
+- Any information that can be named can be a ___resource___
+- REST uses a ___resource identifier___ to identify the particular resource involved in an interaction between components.
+- The state of resource at any particular timestamp is known as ___resource representation___ (data, metadata and hypermedia links)
+- The data format of a representation is known as a ___media type___
