@@ -24,3 +24,5 @@
 - REST uses a ___resource identifier___ to identify the particular resource involved in an interaction between components.
 - The state of resource at any particular timestamp is known as ___resource representation___ (data, metadata and hypermedia links)
 - The data format of a representation is known as a ___media type___
+
+A truly RESTful API looks like hypertext.
